@@ -1,2 +1,2 @@
-# C30-Tower-Seige-2
-The blocks vanish and the polygon re-attaches itself when 'SPACE' key is pressed.
+# p5.play-boilerplate
+Boiler plate for p5.play
